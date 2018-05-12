@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="376dp"
+        android:src="@mipmap/ic_launcher" />
+
+    <LinearLayout
+        android:background="@color/text_gray"
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/tv_phone_xc"
+            android:layout_marginTop="39dp"
+            android:background="@color/white"
+            android:layout_marginLeft="38dp"
+            android:layout_width="300dp"
+            android:layout_height="44dp"
+            android:text="从相册选一张"
+            android:gravity="center"
+            android:textColor="@color/color_image_word"
+            />
+
+
+
+        <TextView
+            android:id="@+id/tv_phone_img"
+            android:layout_marginTop="20dp"
+            android:background="@color/white"
+            android:layout_marginLeft="38dp"
+            android:layout_width="300dp"
+            android:layout_height="44dp"
+            android:text="拍一张照片"
+            android:gravity="center"
+            android:textColor="@color/color_image_word"
+            />
+
+
+
+    </LinearLayout>
+    
+    
+
+
+
+</LinearLayout>

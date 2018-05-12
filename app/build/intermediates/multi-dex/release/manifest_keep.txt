@@ -1,0 +1,3 @@
+# view AndroidManifest.xml #generated:29
+-keep class com.runen.wnhz.runen.ui.BaseApplication { <init>(...); }
+

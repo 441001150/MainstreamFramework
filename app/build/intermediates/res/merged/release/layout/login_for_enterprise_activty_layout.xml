@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@mipmap/bg_login"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/iv_back"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+        android:padding="2dp"
+        android:src="@mipmap/icon_back" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_gravity="center"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:background="@drawable/shape_white_corners"
+        android:orientation="vertical"
+        android:padding="20dp">
+
+        <EditText
+            android:id="@+id/et_input_phone"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:background="@drawable/shape_grey_corners"
+            android:drawableLeft="@mipmap/icon_city_code"
+            android:drawablePadding="10dp"
+            android:hint="请输入城市编码"
+            android:inputType="number"
+            android:maxLength="11"
+            android:padding="10dp"
+            android:textColor="@color/text_black"
+            android:textColorHint="#999999"
+            android:textSize="14sp" />
+
+
+        <EditText
+            android:id="@+id/et_input_password"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/shape_grey_corners"
+            android:drawableLeft="@mipmap/icon_company_code"
+            android:drawablePadding="10dp"
+            android:hint="企业识别码"
+            android:padding="10dp"
+            android:textColor="@color/text_black"
+            android:textColorHint="#999999"
+            android:textSize="14sp" />
+
+
+        <TextView
+            android:id="@+id/tv_forenterpr_next"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:background="@mipmap/bg_button"
+            android:gravity="center"
+            android:text="下一步"
+            android:textColor="@color/text_white"
+            android:textSize="18sp" />
+
+
+    </LinearLayout>
+
+</RelativeLayout>

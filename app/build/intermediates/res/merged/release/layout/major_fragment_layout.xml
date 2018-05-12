@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:background="@color/white"
+        android:layout_height="match_parent">
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:background="@mipmap/bg_title"
+            android:orientation="horizontal">
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_centerInParent="true"
+                android:layout_marginLeft="80dp"
+                android:layout_marginRight="80dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/shape_white_home_sousuo_corners"
+                android:drawableLeft="@mipmap/icon_soushou"
+                android:drawablePadding="5dp"
+                android:hint="请输入关键字"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:textColor="@color/text_black"
+                android:textColorHint="#666666"
+                android:textSize="14sp" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="30dp"
+                android:layout_marginTop="10dp"
+                android:src="@mipmap/icon_home_scanner" />
+
+        </RelativeLayout>
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="388dp">
+            
+            <ImageView
+                android:id="@+id/iv_Professional"
+                android:layout_marginLeft="18dp"
+                android:layout_marginTop="18dp"
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:src="@mipmap/t1"/>
+            
+            <TextView
+                android:id="@+id/tv_professional"
+                android:layout_toRightOf="@+id/iv_Professional"
+                android:textSize="18sp"
+                android:layout_marginTop="17dp"
+                android:layout_marginLeft="10dp"
+                android:textColor="@color/clonr_titleword"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" 
+                android:text="职场"/>
+            
+            <android.support.v7.widget.RecyclerView
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:layout_marginTop="10dp"
+                android:layout_below="@+id/iv_Professional"
+                android:id="@+id/ry_professional"
+                android:layout_width="match_parent"
+                android:layout_height="285dp">
+            </android.support.v7.widget.RecyclerView>
+            
+            <View
+                android:id="@+id/view1"
+                android:layout_below="@+id/ry_professional"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/color_linkword"
+                ></View>
+            
+            
+            <RelativeLayout
+                android:id="@+id/rl_professional"
+                android:layout_below="@+id/view1"
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <TextView
+                    android:id="@+id/tv_all1"
+                    android:gravity="center"
+                    android:layout_marginLeft="141dp"
+                    android:layout_width="wrap_content"
+                    android:textColor="@color/color_textcolor"
+                    android:layout_height="match_parent"
+                    android:text="查看全部课程"
+                    android:layout_alignParentTop="true"
+                    android:layout_centerHorizontal="true" />
+                
+                <ImageView
+                    android:layout_marginTop="8dp"
+                    android:layout_toRightOf="@+id/tv_all1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@mipmap/icon_right_arrow"/>
+                
+            </RelativeLayout>
+           
+        </RelativeLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="11dp"
+            android:background="#F2F2F2"></View>
+        
+        <RelativeLayout
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="388dp">
+
+            <ImageView
+                android:id="@+id/iv_publics"
+                android:layout_marginLeft="18dp"
+                android:layout_marginTop="18dp"
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:src="@mipmap/t1"/>
+
+            <TextView
+                android:id="@+id/tv_publics"
+                android:layout_toRightOf="@+id/iv_publics"
+                android:textSize="18sp"
+                android:layout_marginTop="17dp"
+                android:layout_marginLeft="10dp"
+                android:textColor="@color/clonr_titleword"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="公众课程"/>
+
+            <android.support.v7.widget.RecyclerView
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:layout_marginTop="10dp"
+                android:layout_below="@+id/iv_publics"
+                android:id="@+id/ry_publics"
+                android:layout_width="match_parent"
+                android:layout_height="285dp">
+            </android.support.v7.widget.RecyclerView>
+
+            <View
+                android:id="@+id/view2"
+                android:layout_below="@+id/ry_publics"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/color_linkword"
+                ></View>
+
+            <RelativeLayout
+                android:id="@+id/rl_publics"
+                android:layout_below="@+id/view2"
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <TextView
+                    android:id="@+id/tv_all2"
+                    android:gravity="center"
+                    android:textColor="@color/color_textcolor"
+                    android:layout_marginLeft="141dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:text="查看全部课程"/>
+
+                <ImageView
+                    android:layout_marginTop="8dp"
+                    android:layout_toRightOf="@+id/tv_all2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@mipmap/icon_right_arrow"/>
+
+            </RelativeLayout>
+
+        </RelativeLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="11dp"
+            android:background="#F2F2F2"></View>
+
+        <RelativeLayout
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="388dp">
+
+            <ImageView
+                android:id="@+id/iv_project"
+                android:layout_marginLeft="18dp"
+                android:layout_marginTop="18dp"
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:src="@mipmap/t1"/>
+
+            <TextView
+                android:id="@+id/tv_project"
+                android:layout_toRightOf="@+id/iv_project"
+                android:textSize="18sp"
+                android:layout_marginTop="17dp"
+                android:layout_marginLeft="10dp"
+                android:textColor="@color/clonr_titleword"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="项目管理"/>
+
+            <android.support.v7.widget.RecyclerView
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:layout_marginTop="10dp"
+                android:layout_below="@+id/iv_project"
+                android:id="@+id/ry_project"
+                android:layout_width="match_parent"
+                android:layout_height="285dp">
+            </android.support.v7.widget.RecyclerView>
+
+            <View
+                android:id="@+id/view3"
+                android:layout_below="@+id/ry_project"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/color_linkword"
+                ></View>
+
+            <RelativeLayout
+                android:id="@+id/rl_project"
+                android:layout_below="@+id/view3"
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <TextView
+                    android:id="@+id/tv_all3"
+                    android:textColor="@color/color_textcolor"
+                    android:gravity="center"
+                    android:layout_marginLeft="141dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:text="查看全部课程"/>
+
+                <ImageView
+                    android:layout_marginTop="8dp"
+                    android:layout_toRightOf="@+id/tv_all3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@mipmap/icon_right_arrow"/>
+
+            </RelativeLayout>
+
+           
+
+        </RelativeLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="11dp"
+            android:background="#F2F2F2"></View>
+        
+        
+        
+        
+    </LinearLayout>
+    
+</ScrollView>

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\xml\\file_paths.xml",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\xml\\file_paths.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\xml\\file_paths.xml",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\xml\\file_paths.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\xml\\file_paths.xml",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\xml\\file_paths.xml"
+    }
+]

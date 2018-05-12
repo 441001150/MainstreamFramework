@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/xueshijie/AndroidStudioProjects/MyApplication/Runen/Runen/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher_round.png",
+        "source": "/Users/xueshijie/AndroidStudioProjects/MyApplication/Runen/Runen/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/xueshijie/AndroidStudioProjects/MyApplication/Runen/Runen/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/icon_logo.png",
+        "source": "/Users/xueshijie/AndroidStudioProjects/MyApplication/Runen/Runen/app/src/main/res/mipmap-xxxhdpi/icon_logo.png"
+    },
+    {
+        "merged": "/Users/xueshijie/AndroidStudioProjects/MyApplication/Runen/Runen/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/Users/xueshijie/AndroidStudioProjects/MyApplication/Runen/Runen/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    }
+]

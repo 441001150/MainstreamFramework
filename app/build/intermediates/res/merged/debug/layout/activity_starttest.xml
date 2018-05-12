@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" 
+    android:layout_width="match_parent"
+    android:background="@color/white"
+    android:layout_height="match_parent">
+
+    
+    <TextView
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="15dp"
+        android:id="@+id/tv_start_title"
+        android:layout_width="match_parent"
+        android:textColor="@color/text_black"
+        android:layout_height="wrap_content" 
+        android:text="第一讲单元测试题"/>
+    
+    <TextView
+        android:textColor="@color/color_error_Black"
+        android:id="@+id/tv_start_info"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="15dp"
+        android:layout_width="294dp"
+        android:layout_height="261dp" 
+        android:text="总分：100分\n限时：120分钟\n题量：4\n题型：单选/多选/判断\n提交次数：0/3\n评分标准：单选：每题1分\n多选：每题2分，至少选择一个选项，每个选项0.5分\n判断：每题1分\n考试须知：考生需在规定时间内完成规定题量，超过时间将自动交卷\n"/>
+
+
+    <TextView
+        android:layout_marginTop="82dp"
+        android:id="@+id/start_texts"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:background="@mipmap/bg_button"
+        android:gravity="center"
+        android:text="开始测验"
+        android:textColor="@color/text_white"
+        android:textSize="18sp" />
+    
+</LinearLayout>

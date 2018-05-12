@@ -1,0 +1,842 @@
+[
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_notice.png",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_notice.png"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_join.png",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_join.png"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_mine_selected.png",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_mine_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\t1.png",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\t1.png"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_password.png",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_password.png"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_delete.png",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_delete.png"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\bg_mine_login.png",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\mipmap-xxhdpi\\bg_mine_login.png"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_logo.png",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_logo.png"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_home_banner_a.png",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_home_banner_a.png"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_home_banner_a.png",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_home_banner_a.png"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_personal_selected.png",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_personal_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_login_qq.png",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_login_qq.png"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_major_unselected.png",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_major_unselected.png"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_delete.png",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_delete.png"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_personal_selected.png",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_personal_selected.png"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\t1.png",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\mipmap-xxhdpi\\t1.png"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\bg_switch_gray.png",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\bg_switch_gray.png"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_wodeyue.png",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_wodeyue.png"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_zhanghaoshezhi.png",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_zhanghaoshezhi.png"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_wodeshoucang.png",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_wodeshoucang.png"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_company_code.png",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_company_code.png"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_personal_unselected.png",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_personal_unselected.png"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_home_selected.png",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_home_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_home_scanner.png",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_home_scanner.png"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\bg_login.png",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\bg_login.png"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_public_unselected.png",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_public_unselected.png"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_major_unselected.png",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_major_unselected.png"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\bg_title.png",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\bg_title.png"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\bg_switch_green.png",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\bg_switch_green.png"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_switch.png",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_switch.png"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_login.png",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_login.png"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_login_wx.png",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_login_wx.png"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\loading.png",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\mipmap-xxhdpi\\loading.png"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_home_banner_b.png",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_home_banner_b.png"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_up.png",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_up.png"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_to_begin.png",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_to_begin.png"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_want.png",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_want.png"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_home_scanner.png",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_home_scanner.png"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_login_qq.png",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_login_qq.png"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_rb_unsele.png",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_rb_unsele.png"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_mine_unselected.png",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_mine_unselected.png"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_right_arrow.png",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_right_arrow.png"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_launcher_round.png",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_password.png",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_password.png"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\bg_switch_gray.png",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\mipmap-xxhdpi\\bg_switch_gray.png"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_yijianfankui.png",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_yijianfankui.png"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_enterprise_selected.png",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_enterprise_selected.png"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_information.png",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_information.png"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_information.png",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_information.png"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_home_unselected.png",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_home_unselected.png"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\t1.png",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\t1.png"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_login_wx.png",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_login_wx.png"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_mine_unselected.png",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_mine_unselected.png"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_pay_now.png",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_pay_now.png"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_personal_unselected.png",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_personal_unselected.png"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_message.png",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_message.png"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_star.png",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_star.png"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_yijianfankui.png",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_yijianfankui.png"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_pay_now.png",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_pay_now.png"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_xiaoxizhongxin.png",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_xiaoxizhongxin.png"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_selected.png",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_xiaoxizhongxin.png",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_xiaoxizhongxin.png"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_wodeceping.png",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_wodeceping.png"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\bg_switch_green.png",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\mipmap-xxhdpi\\bg_switch_green.png"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_enterprise_selected.png",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_enterprise_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_major_unselected.png",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_major_unselected.png"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_public_unselected.png",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_public_unselected.png"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\bg_circular.png",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\bg_circular.png"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_major_selected.png",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_major_selected.png"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_user.png",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_user.png"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_pay_now.png",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_pay_now.png"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_mine_selected.png",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_mine_selected.png"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\bg_button.png",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\bg_button.png"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_back.png",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_back.png"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_star.png",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_star.png"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_public_unselected.png",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_public_unselected.png"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_back.png",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_back.png"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_login.png",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_login.png"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\loading.png",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\loading.png"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\bg_mine_login.png",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\bg_mine_login.png"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_mine_selected.png",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_mine_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_up.png",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_up.png"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_login_qq.png",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_login_qq.png"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\bg_button.png",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\mipmap-xxhdpi\\bg_button.png"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_selected.png",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_home_unselected.png",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_home_unselected.png"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_star.png",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_star.png"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\bg_circular.png",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\mipmap-xxhdpi\\bg_circular.png"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_touxiang.png",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_touxiang.png"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\loading.png",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\loading.png"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\bg_button.png",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\bg_button.png"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_wodeshoucang.png",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_wodeshoucang.png"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_up.png",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_up.png"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_company_code.png",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_company_code.png"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_wodekecheng.png",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_wodekecheng.png"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_shouhuodizhi.png",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_shouhuodizhi.png"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\bg_login.png",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\mipmap-xxhdpi\\bg_login.png"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_edit.png",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_edit.png"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\bg_achievement.png",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\bg_achievement.png"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_wodedingdan.png",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_wodedingdan.png"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_launcher_round.png",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_city_code.png",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_city_code.png"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_wodeyue.png",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_wodeyue.png"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_personal_selected.png",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_personal_selected.png"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_back.png",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_back.png"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_edit.png",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_edit.png"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_ar.png",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_ar.png"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_selected.png",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_selected.png"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_want.png",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_want.png"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_home_scanner.png",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_home_scanner.png"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_right_arrow.png",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_right_arrow.png"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_company_code.png",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_company_code.png"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_wodeshoucang.png",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_wodeshoucang.png"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_shouhuodizhi.png",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_shouhuodizhi.png"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_wodeyue.png",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_wodeyue.png"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_star_empty.png",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_star_empty.png"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_gerenzhongxin.png",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_gerenzhongxin.png"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\bg_achievement.png",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\bg_achievement.png"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_wodekecheng.png",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_wodekecheng.png"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_home_unselected.png",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_home_unselected.png"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_launcher_round.png",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_join.png",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_join.png"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_enterprise_unselected.png",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_enterprise_unselected.png"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_public_selected.png",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_public_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_home_banner_b.png",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_home_banner_b.png"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\bg_title.png",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\mipmap-xxhdpi\\bg_title.png"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_gerenzhongxin.png",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_gerenzhongxin.png"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_ar.png",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_ar.png"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_public_selected.png",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_public_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_edit.png",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_edit.png"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_enterprise_selected.png",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_enterprise_selected.png"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_mine_unselected.png",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_mine_unselected.png"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_home_banner_b.png",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_home_banner_b.png"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_home_banner_a.png",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_home_banner_a.png"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_want.png",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_want.png"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_star_empty.png",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_star_empty.png"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_soushou.png",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_soushou.png"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_notice.png",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_notice.png"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_yijianfankui.png",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_yijianfankui.png"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_login.png",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_login.png"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_vcode.png",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_vcode.png"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_user.png",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_user.png"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_home_selected.png",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_home_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_down.png",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_down.png"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_major_selected.png",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_major_selected.png"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_unselected.png",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_unselected.png"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\bg_login.png",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\bg_login.png"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_to_begin.png",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_to_begin.png"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_city_code.png",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_city_code.png"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_right_arrow.png",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_right_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_user.png",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_user.png"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_rb_sele.png",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_rb_sele.png"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_cancel.png",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_cancel.png"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_major_selected.png",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_major_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_ar.png",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_ar.png"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_unselected.png",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_unselected.png"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_vcode.png",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_vcode.png"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_launcher.png",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\bg_circular.png",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\bg_circular.png"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\bg_achievement.png",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\mipmap-xxhdpi\\bg_achievement.png"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_enterprise_unselected.png",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_enterprise_unselected.png"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_password.png",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_password.png"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\bg_title.png",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\bg_title.png"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_message.png",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_message.png"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_rb_sele.png",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_rb_sele.png"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_star_empty.png",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_star_empty.png"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_touxiang.png",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_touxiang.png"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_switch.png",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_switch.png"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_information.png",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_information.png"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_down.png",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_down.png"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_down.png",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_down.png"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_touxiang.png",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_touxiang.png"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_city_code.png",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_city_code.png"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_shouhuodizhi.png",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_shouhuodizhi.png"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\bg_mine_login.png",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\bg_mine_login.png"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_message.png",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_message.png"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_gerenzhongxin.png",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_gerenzhongxin.png"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_login_wx.png",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_login_wx.png"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_rb_sele.png",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_rb_sele.png"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_soushou.png",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_soushou.png"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_rb_unsele.png",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_rb_unsele.png"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_logo.png",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_logo.png"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_switch.png",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_switch.png"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_home_selected.png",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_home_selected.png"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_wodekecheng.png",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_wodekecheng.png"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_notice.png",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_notice.png"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\bg_switch_gray.png",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\bg_switch_gray.png"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_delete.png",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_delete.png"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_launcher.png",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_logo.png",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_logo.png"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_to_begin.png",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_to_begin.png"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_zhanghaoshezhi.png",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_zhanghaoshezhi.png"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_wodeceping.png",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_wodeceping.png"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_unselected.png",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_unselected.png"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_join.png",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_join.png"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_public_selected.png",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_public_selected.png"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_cancel.png",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_cancel.png"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_enterprise_unselected.png",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_enterprise_unselected.png"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_wodeceping.png",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_wodeceping.png"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_zhanghaoshezhi.png",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_zhanghaoshezhi.png"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_wodedingdan.png",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_wodedingdan.png"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_wodedingdan.png",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_wodedingdan.png"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_cancel.png",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_cancel.png"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_vcode.png",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_vcode.png"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_personal_unselected.png",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_personal_unselected.png"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_xiaoxizhongxin.png",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_xiaoxizhongxin.png"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_rb_unsele.png",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_rb_unsele.png"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\bg_switch_green.png",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\bg_switch_green.png"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\icon_soushou.png",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_soushou.png"
+    }
+]

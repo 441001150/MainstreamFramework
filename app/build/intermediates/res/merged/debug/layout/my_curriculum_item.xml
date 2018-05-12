@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="160dp"
+    android:orientation="horizontal"
+    android:padding="10dp">
+
+    <ImageView
+        android:id="@+id/iv_collection_img"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_marginRight="20dp"
+        android:layout_weight="1"
+        android:background="#333" />
+
+    <RelativeLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_vertical"
+        android:layout_weight="1.6"
+        android:padding="10dp">
+
+        <TextView
+            android:layout_marginTop="15dp"
+            android:id="@+id/tv_collection_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="敏捷项目管理的的库尔凯恩吗库尔凯恩吗"
+            android:maxLines="1"
+            android:textStyle="bold"
+            android:ellipsize="end"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/tv_collection_data"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tv_collection_title"
+            android:layout_marginTop="18dp"
+            android:text="课程有效期：365天"
+            android:textColor="#666666"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/tv_yikan"
+            android:layout_below="@+id/tv_collection_data"
+            android:layout_marginTop="18dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:text="已看：2/10"
+            android:textColor="#666666"
+            android:textSize="14sp" />
+
+        <TextView
+
+            android:id="@+id/tv_yidown"
+            android:layout_below="@+id/tv_collection_data"
+            android:layout_marginTop="18dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:text="已下载：10"
+            android:textColor="#666666"
+            android:textSize="14sp" />
+
+    </RelativeLayout>
+
+</LinearLayout>

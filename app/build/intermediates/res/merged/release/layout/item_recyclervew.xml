@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:id="@+id/recycler_item"
+    android:orientation="vertical">
+
+
+    <ImageView
+        android:id="@+id/item__recycler"
+        android:layout_width="51dp"
+        android:layout_height="51dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="9dp"
+        android:src="@mipmap/t1" />
+
+    <TextView
+        android:textSize="14sp"
+        android:id="@+id/item_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="9dp"
+        android:layout_toRightOf="@+id/item__recycler"
+        android:text="季季香火锅"
+        android:textColor="@color/black" />
+
+
+    <TextView
+        android:id="@+id/item_Sale"
+        android:layout_below="@+id/item_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="9dp"
+        android:layout_toRightOf="@+id/item__recycler"
+        android:text="销售额:"
+        android:textSize="13sp"
+        android:textColor="@color/hint_gray" />
+    
+    
+    <TextView
+        android:id="@+id/item_money"
+        android:layout_below="@+id/item_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="9dp"
+        android:layout_toRightOf="@+id/item_Sale"
+        android:text="12000"
+        android:textSize="13sp"
+        android:textColor="@color/text_orange" />
+    
+    <ImageView
+        android:id="@+id/iv_onclick"
+        android:layout_marginTop="21dp"
+        android:layout_marginRight="10dp"
+        android:layout_alignParentRight="true"
+        android:layout_width="20dp"
+        android:layout_height="20dp" 
+        android:src="@mipmap/icon_right_arrow"/>
+    
+    
+
+
+</RelativeLayout>

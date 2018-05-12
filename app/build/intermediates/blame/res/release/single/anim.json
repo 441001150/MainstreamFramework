@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\release\\anim\\quit_fullscreen.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\25d7eff924c4ee13091f692a06a599fb8f5dbf1d\\output\\res\\anim\\quit_fullscreen.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\release\\anim\\pickerview_slide_in_bottom.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\eecc220f82ae20403124be70cfd42d3adabedc0e\\output\\res\\anim\\pickerview_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\release\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\b60314fb4249a12613d5c7addc4ded6e340a5996\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\release\\anim\\start_fullscreen.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\25d7eff924c4ee13091f692a06a599fb8f5dbf1d\\output\\res\\anim\\start_fullscreen.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\release\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\b60314fb4249a12613d5c7addc4ded6e340a5996\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\release\\anim\\pickerview_slide_out_bottom.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\eecc220f82ae20403124be70cfd42d3adabedc0e\\output\\res\\anim\\pickerview_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\release\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\b60314fb4249a12613d5c7addc4ded6e340a5996\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\release\\anim\\pickerview_dialog_scale_in.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\eecc220f82ae20403124be70cfd42d3adabedc0e\\output\\res\\anim\\pickerview_dialog_scale_in.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\release\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\b60314fb4249a12613d5c7addc4ded6e340a5996\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\release\\anim\\pickerview_dialog_scale_out.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\eecc220f82ae20403124be70cfd42d3adabedc0e\\output\\res\\anim\\pickerview_dialog_scale_out.xml"
+    }
+]

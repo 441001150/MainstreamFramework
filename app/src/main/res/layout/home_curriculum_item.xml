@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:paddingBottom="10dp"
+    android:paddingLeft="10dp"
+    android:paddingRight="5dp"
+    android:paddingTop="10dp">
+
+    <ImageView
+        android:id="@+id/iv_curriculum_img"
+        android:layout_width="180dp"
+        android:layout_height="90dp"
+        android:background="#333" />
+
+    <TextView
+        android:id="@+id/tv_curriculum_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/iv_curriculum_img"
+        android:layout_marginTop="10dp"
+        android:text="掌握这项技能薪资翻倍" />
+
+    <RatingBar
+        android:id="@+id/rb_curriculum"
+        style="@style/foodRatingBar"
+        android:layout_width="wrap_content"
+        android:layout_height="12dp"
+        android:layout_below="@id/tv_curriculum_title"
+        android:layout_marginTop="10dp"
+        android:progress="30" />
+
+    <TextView
+        android:id="@+id/tv_study_number"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@id/iv_curriculum_img"
+        android:layout_below="@id/tv_curriculum_title"
+        android:layout_marginTop="10dp"
+        android:text="12345人在学"
+        android:textColor="#cccccc"
+        android:textSize="10sp" />
+
+    <TextView
+        android:id="@+id/tv_price"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tv_study_number"
+        android:layout_marginTop="10dp"
+        android:text="¥2899"
+        android:textColor="#EB5529"
+        android:textSize="10sp" />
+
+
+</RelativeLayout>

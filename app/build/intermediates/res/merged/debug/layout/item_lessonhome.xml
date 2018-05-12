@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:id="@+id/recycler_item"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    
+
+    <ImageView
+        android:id="@+id/iv_pic"
+        android:paddingLeft="15dp"
+        android:paddingRight="15dp"
+        android:layout_width="170dp"
+        android:layout_height="110dp"
+        android:scaleType="fitXY"
+        android:src="@mipmap/t1"/>
+
+    
+    <LinearLayout
+        android:layout_marginTop="10dp"
+        android:orientation="vertical"
+        android:layout_width="170dp"
+        android:paddingStart="15dp"
+        android:paddingEnd="15dp"
+        android:layout_height="wrap_content">
+        
+       <TextView
+           android:id="@+id/tv_title"
+           android:textSize="13sp"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:text="AR时代该如何学习"
+           android:textColor="#666666"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/tv_star"
+                android:layout_width="match_parent"
+                android:layout_weight="1"
+                android:layout_height="match_parent"
+                android:text="待找控件"/>
+
+
+            <TextView
+                android:id="@+id/tv_views"
+                android:layout_width="match_parent"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                android:textSize="13sp"
+                android:gravity="end"
+                android:textColor="#CCCCCC"
+                android:text="12485人在学"/>
+
+        </LinearLayout>
+       
+
+
+        <TextView
+            android:id="@+id/tv_price"
+            android:layout_width="match_parent"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:textSize="13sp"
+            android:textColor="#EB5529"
+            android:text="¥2899"/>
+
+
+
+    </LinearLayout>
+    
+    
+
+</LinearLayout>

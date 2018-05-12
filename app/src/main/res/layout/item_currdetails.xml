@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    
+    
+    <ImageView
+        android:paddingLeft="15dp"
+        android:layout_marginTop="15dp"
+        android:paddingRight="15dp"
+        android:layout_width="345dp"
+        android:layout_height="225dp" 
+        android:scaleType="fitXY"
+        android:src="@mipmap/t1"/>
+
+    
+    <LinearLayout
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="15dp"
+        android:orientation="horizontal"
+        android:layout_width="345dp"
+        android:layout_height="wrap_content">
+        
+       <TextView
+           android:textSize="13sp"
+           android:layout_width="0dp"
+           android:layout_weight="2"
+           android:layout_height="wrap_content" 
+           android:text="AR时代该如何学习"
+           android:textColor="#666666"/>
+        
+       
+        <TextView
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent" 
+            android:layout_marginLeft="12dp"
+            android:text="待找控件"/>
+
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_weight="1.3"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:textSize="13sp"
+            android:textColor="#CCCCCC"
+            android:text="12485人在学"/>
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:textSize="13sp"
+            android:textColor="#EB5529"
+            android:text="¥2899"/>
+
+
+
+    </LinearLayout>
+    
+    
+
+</LinearLayout>

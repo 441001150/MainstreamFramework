@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/xueshijie/AndroidStudioProjects/MyApplication/Runen/Runen/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/Users/xueshijie/AndroidStudioProjects/MyApplication/Runen/Runen/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/xueshijie/AndroidStudioProjects/MyApplication/Runen/Runen/app/build/intermediates/res/merged/debug/mipmap-hdpi/icon_net_error.png",
+        "source": "/Users/xueshijie/AndroidStudioProjects/MyApplication/Runen/Runen/app/src/main/res/mipmap-hdpi/icon_net_error.png"
+    },
+    {
+        "merged": "/Users/xueshijie/AndroidStudioProjects/MyApplication/Runen/Runen/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher_round.png",
+        "source": "/Users/xueshijie/AndroidStudioProjects/MyApplication/Runen/Runen/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/xueshijie/AndroidStudioProjects/MyApplication/Runen/Runen/app/build/intermediates/res/merged/debug/mipmap-hdpi/icon_tipview_success.png",
+        "source": "/Users/xueshijie/AndroidStudioProjects/MyApplication/Runen/Runen/app/src/main/res/mipmap-hdpi/icon_tipview_success.png"
+    },
+    {
+        "merged": "/Users/xueshijie/AndroidStudioProjects/MyApplication/Runen/Runen/app/build/intermediates/res/merged/debug/mipmap-hdpi/icon_system_invalid.png",
+        "source": "/Users/xueshijie/AndroidStudioProjects/MyApplication/Runen/Runen/app/src/main/res/mipmap-hdpi/icon_system_invalid.png"
+    },
+    {
+        "merged": "/Users/xueshijie/AndroidStudioProjects/MyApplication/Runen/Runen/app/build/intermediates/res/merged/debug/mipmap-hdpi/msg_ic_data.png",
+        "source": "/Users/xueshijie/AndroidStudioProjects/MyApplication/Runen/Runen/app/src/main/res/mipmap-hdpi/msg_ic_data.png"
+    },
+    {
+        "merged": "/Users/xueshijie/AndroidStudioProjects/MyApplication/Runen/Runen/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_system_error.png",
+        "source": "/Users/xueshijie/AndroidStudioProjects/MyApplication/Runen/Runen/app/src/main/res/mipmap-hdpi/ic_system_error.png"
+    },
+    {
+        "merged": "/Users/xueshijie/AndroidStudioProjects/MyApplication/Runen/Runen/app/build/intermediates/res/merged/debug/mipmap-hdpi/icon_tipview_failed.png",
+        "source": "/Users/xueshijie/AndroidStudioProjects/MyApplication/Runen/Runen/app/src/main/res/mipmap-hdpi/icon_tipview_failed.png"
+    }
+]

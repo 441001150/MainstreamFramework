@@ -1,0 +1,2326 @@
+[
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\balance_activity_layout.xml",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\layout\\balance_activity_layout.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_ziliao_home.xml",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\layout\\item_ziliao_home.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "D:\\Users\\xueshijie\\.android\\build-cache\\54dfa62ef6a2c2ab4d672fffcfa35a01a46c9fb7\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login_for_personal_activty_layout.xml",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\layout\\login_for_personal_activty_layout.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login_for_vcode_activty_layout.xml",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\layout\\login_for_vcode_activty_layout.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\learning_fragment_layout.xml",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\layout\\learning_fragment_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pickerview_options.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\eecc220f82ae20403124be70cfd42d3adabedc0e\\output\\res\\layout\\pickerview_options.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\jz_dialog_brightness.xml",
+        "source": "D:\\Users\\xueshijie\\.android\\build-cache\\ef2f6369edfcc296e0e9aeba55a04f0e51a3c593\\output\\res\\layout\\jz_dialog_brightness.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_articlelist.xml",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\layout\\activity_articlelist.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "D:\\Users\\xueshijie\\.android\\build-cache\\54dfa62ef6a2c2ab4d672fffcfa35a01a46c9fb7\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\b60314fb4249a12613d5c7addc4ded6e340a5996\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\b60314fb4249a12613d5c7addc4ded6e340a5996\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\test_record_activity_layout.xml",
+        "source": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\src\\main\\res\\layout\\test_record_activity_layout.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\learning_fragment_layout.xml",
+        "source": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\src\\main\\res\\layout\\learning_fragment_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\catalog_fragment_list_item.xml",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\layout\\catalog_fragment_list_item.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_verification.xml",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\layout\\activity_verification.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_currdetails.xml",
+        "source": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\src\\main\\res\\layout\\item_currdetails.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "D:\\Users\\xueshijie\\.android\\build-cache\\16f05002a6623820587fc52fb22dbbfb9d97fde5\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_update_name.xml",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\layout\\activity_update_name.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\b60314fb4249a12613d5c7addc4ded6e340a5996\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_webview.xml",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\layout\\activity_webview.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\catalog_fragment_layout.xml",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\layout\\catalog_fragment_layout.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\balance_activity_item.xml",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\layout\\balance_activity_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\kprogresshud_hud.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\3c6c8931258424b9d93d1cfe73518b8fc71cbcc8\\output\\res\\layout\\kprogresshud_hud.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\major_fragment_item_layout.xml",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\layout\\major_fragment_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\catalog_fragment_item.xml",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\layout\\catalog_fragment_item.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "D:\\Users\\xueshijie\\.android\\build-cache\\16f05002a6623820587fc52fb22dbbfb9d97fde5\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_title_bar.xml",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\layout\\activity_title_bar.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\course_details_activity_layout.xml",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\layout\\course_details_activity_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message_center_activity.xml",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\layout\\message_center_activity.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_uploadimage.xml",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\layout\\activity_uploadimage.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "D:\\Users\\xueshijie\\.android\\build-cache\\54dfa62ef6a2c2ab4d672fffcfa35a01a46c9fb7\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\jz_dialog_progress.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\25d7eff924c4ee13091f692a06a599fb8f5dbf1d\\output\\res\\layout\\jz_dialog_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\learning_fragment_layout.xml",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\layout\\learning_fragment_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\my_collection_activity_layout.xml",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\layout\\my_collection_activity_layout.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\b60314fb4249a12613d5c7addc4ded6e340a5996\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\receiving_address_item.xml",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\layout\\receiving_address_item.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\class_center_activity.xml",
+        "source": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\src\\main\\res\\layout\\class_center_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\test_main_activity_layout.xml",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\layout\\test_main_activity_layout.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pager_loading.xml",
+        "source": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\src\\main\\res\\layout\\pager_loading.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_datasercicedetails.xml",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\layout\\activity_datasercicedetails.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\forget_password_activity_layout.xml",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\layout\\forget_password_activity_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\banner.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\71322508e9d2b59f196271eccb4ba71443eafe2d\\output\\res\\layout\\banner.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\jz_dialog_volume.xml",
+        "source": "D:\\Users\\xueshijie\\.android\\build-cache\\ef2f6369edfcc296e0e9aeba55a04f0e51a3c593\\output\\res\\layout\\jz_dialog_volume.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\my_evaluation_item.xml",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\layout\\my_evaluation_item.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mine_fragment_layout.xml",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\layout\\mine_fragment_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\my_curriculum_item.xml",
+        "source": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\src\\main\\res\\layout\\my_curriculum_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_footer.xml",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\layout\\main_footer.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "D:\\Users\\xueshijie\\.android\\build-cache\\54dfa62ef6a2c2ab4d672fffcfa35a01a46c9fb7\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_webview.xml",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\layout\\activity_webview.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tag_item.xml",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\layout\\tag_item.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\major_fragment_layout.xml",
+        "source": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\src\\main\\res\\layout\\major_fragment_layout.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_curriculum_item.xml",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\layout\\home_curriculum_item.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\my_evaluation_item.xml",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\layout\\my_evaluation_item.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pager_loading.xml",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\layout\\pager_loading.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\choice_identity_activity_layout.xml",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\layout\\choice_identity_activity_layout.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\kprogresshud_hud.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\3c6c8931258424b9d93d1cfe73518b8fc71cbcc8\\output\\res\\layout\\kprogresshud_hud.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\test_main_activity_layout.xml",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\layout\\test_main_activity_layout.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_lessonhome.xml",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\layout\\item_lessonhome.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\achievement_activity_layout.xml",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\layout\\achievement_activity_layout.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_lessonhome.xml",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\layout\\item_lessonhome.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\all_recyclerview.xml",
+        "source": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\src\\main\\res\\layout\\all_recyclerview.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\b60314fb4249a12613d5c7addc4ded6e340a5996\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\my_evaluation_activity_layout.xml",
+        "source": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\src\\main\\res\\layout\\my_evaluation_activity_layout.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "D:\\Users\\xueshijie\\.android\\build-cache\\54dfa62ef6a2c2ab4d672fffcfa35a01a46c9fb7\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\add_address_activity_layout.xml",
+        "source": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\src\\main\\res\\layout\\add_address_activity_layout.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "D:\\Users\\xueshijie\\.android\\build-cache\\54dfa62ef6a2c2ab4d672fffcfa35a01a46c9fb7\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\b60314fb4249a12613d5c7addc4ded6e340a5996\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\actvitiy_errorback.xml",
+        "source": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\src\\main\\res\\layout\\actvitiy_errorback.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\page_no_data.xml",
+        "source": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\src\\main\\res\\layout\\page_no_data.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_major_detail.xml",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\layout\\activity_major_detail.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\b60314fb4249a12613d5c7addc4ded6e340a5996\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_article.xml",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\layout\\item_article.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pager_loading.xml",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\layout\\pager_loading.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_articlelist.xml",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\layout\\activity_articlelist.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\my_order_item.xml",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\layout\\my_order_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_shop_type.xml",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\layout\\item_shop_type.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mine_fragment_item.xml",
+        "source": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\src\\main\\res\\layout\\mine_fragment_item.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\b60314fb4249a12613d5c7addc4ded6e340a5996\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_ziliao_home.xml",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\layout\\item_ziliao_home.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "D:\\Users\\xueshijie\\.android\\build-cache\\16f05002a6623820587fc52fb22dbbfb9d97fde5\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\page_no_data.xml",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\layout\\page_no_data.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "D:\\Users\\xueshijie\\.android\\build-cache\\16f05002a6623820587fc52fb22dbbfb9d97fde5\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\forget_password_activity_layout.xml",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\layout\\forget_password_activity_layout.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\catalog_fragment_item.xml",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\layout\\catalog_fragment_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_web_view.xml",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\layout\\activity_web_view.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "D:\\Users\\xueshijie\\.android\\build-cache\\16f05002a6623820587fc52fb22dbbfb9d97fde5\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\actvitiy_errorback.xml",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\layout\\actvitiy_errorback.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\jz_layout_standard.xml",
+        "source": "D:\\Users\\xueshijie\\.android\\build-cache\\ef2f6369edfcc296e0e9aeba55a04f0e51a3c593\\output\\res\\layout\\jz_layout_standard.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notice_fragment_layout.xml",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\layout\\notice_fragment_layout.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pager_error.xml",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\layout\\pager_error.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\public_fragment_layout.xml",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\layout\\public_fragment_layout.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\b60314fb4249a12613d5c7addc4ded6e340a5996\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_curriculum_item.xml",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\layout\\home_curriculum_item.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_starttest.xml",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\layout\\activity_starttest.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\banner.xml",
+        "source": "D:\\Users\\xueshijie\\.android\\build-cache\\4810a765c28b2c0475532e417ac4439156d691f4\\output\\res\\layout\\banner.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_title_bar.xml",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\layout\\activity_title_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_articlelist.xml",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\layout\\activity_articlelist.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_major_detail.xml",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\layout\\activity_major_detail.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\kprogresshud_hud.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\3c6c8931258424b9d93d1cfe73518b8fc71cbcc8\\output\\res\\layout\\kprogresshud_hud.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\my_collection_activity_layout.xml",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\layout\\my_collection_activity_layout.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_footer.xml",
+        "source": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\src\\main\\res\\layout\\main_footer.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\balance_activity_layout.xml",
+        "source": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\src\\main\\res\\layout\\balance_activity_layout.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "D:\\Users\\xueshijie\\.android\\build-cache\\54dfa62ef6a2c2ab4d672fffcfa35a01a46c9fb7\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\b60314fb4249a12613d5c7addc4ded6e340a5996\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mine_fragment_head_view.xml",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\layout\\mine_fragment_head_view.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\test_record_activity_layout.xml",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\layout\\test_record_activity_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login_for_enterprise_activty_layout.xml",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\layout\\login_for_enterprise_activty_layout.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_articlelist.xml",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\layout\\item_articlelist.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\def_loading.xml",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\layout\\def_loading.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\b60314fb4249a12613d5c7addc4ded6e340a5996\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_pickerview_topbar.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\eecc220f82ae20403124be70cfd42d3adabedc0e\\output\\res\\layout\\include_pickerview_topbar.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_starttest.xml",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\layout\\activity_starttest.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\personal_center_activity_layout.xml",
+        "source": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\src\\main\\res\\layout\\personal_center_activity_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_update_name.xml",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\layout\\activity_update_name.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_all_data.xml",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\layout\\fragment_all_data.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\personal_data_activity_layout.xml",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\layout\\personal_data_activity_layout.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\personal_center_activity_layout.xml",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\layout\\personal_center_activity_layout.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_footer.xml",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\layout\\main_footer.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\my_collection_item.xml",
+        "source": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\src\\main\\res\\layout\\my_collection_item.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\my_collection_item.xml",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\layout\\my_collection_item.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\def_load_more_failed.xml",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\layout\\def_load_more_failed.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\major_fragment_item_layout.xml",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\layout\\major_fragment_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_starttest.xml",
+        "source": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\src\\main\\res\\layout\\activity_starttest.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\personal_center_activity_layout.xml",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\layout\\personal_center_activity_layout.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\b60314fb4249a12613d5c7addc4ded6e340a5996\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_webview.xml",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\layout\\activity_webview.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_curriculum_item.xml",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\layout\\home_curriculum_item.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "D:\\Users\\xueshijie\\.android\\build-cache\\54dfa62ef6a2c2ab4d672fffcfa35a01a46c9fb7\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\b60314fb4249a12613d5c7addc4ded6e340a5996\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\account_setting_activity_layout.xml",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\layout\\account_setting_activity_layout.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message_item.xml",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\layout\\message_item.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "D:\\Users\\xueshijie\\.android\\build-cache\\54dfa62ef6a2c2ab4d672fffcfa35a01a46c9fb7\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\def_loading.xml",
+        "source": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\src\\main\\res\\layout\\def_loading.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\downloaded_fragment_layout.xml",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\layout\\downloaded_fragment_layout.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\test_activity_layout.xml",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\layout\\test_activity_layout.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_pickerview_topbar.xml",
+        "source": "D:\\Users\\xueshijie\\.android\\build-cache\\1b84af325bfefa2b436933626f39d7de3fb23407\\output\\res\\layout\\include_pickerview_topbar.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_basepickerview.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\eecc220f82ae20403124be70cfd42d3adabedc0e\\output\\res\\layout\\layout_basepickerview.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\change_password_activity_layout.xml",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\layout\\change_password_activity_layout.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_basepickerview.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\eecc220f82ae20403124be70cfd42d3adabedc0e\\output\\res\\layout\\layout_basepickerview.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message_center_activity.xml",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\layout\\message_center_activity.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\personal_data_activity_layout.xml",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\layout\\personal_data_activity_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\public_fragment_layout.xml",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\layout\\public_fragment_layout.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\page_no_data.xml",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\layout\\page_no_data.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\catalog_fragment_item.xml",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\layout\\catalog_fragment_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login_for_enterprise_activty_layout.xml",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\layout\\login_for_enterprise_activty_layout.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\jz_dialog_brightness.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\25d7eff924c4ee13091f692a06a599fb8f5dbf1d\\output\\res\\layout\\jz_dialog_brightness.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\jz_layout_standard.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\25d7eff924c4ee13091f692a06a599fb8f5dbf1d\\output\\res\\layout\\jz_layout_standard.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\b60314fb4249a12613d5c7addc4ded6e340a5996\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\title_layout_activity.xml",
+        "source": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\src\\main\\res\\layout\\title_layout_activity.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\my_collection_activity_layout.xml",
+        "source": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\src\\main\\res\\layout\\my_collection_activity_layout.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\change_password_activity_layout.xml",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\layout\\change_password_activity_layout.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\downloaded_fragment_layout.xml",
+        "source": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\src\\main\\res\\layout\\downloaded_fragment_layout.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_recyclervew.xml",
+        "source": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\src\\main\\res\\layout\\item_recyclervew.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\b60314fb4249a12613d5c7addc4ded6e340a5996\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_uploadimage.xml",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\layout\\activity_uploadimage.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "D:\\Users\\xueshijie\\.android\\build-cache\\54dfa62ef6a2c2ab4d672fffcfa35a01a46c9fb7\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_data_details.xml",
+        "source": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\src\\main\\res\\layout\\item_data_details.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message_fragment_layout.xml",
+        "source": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\src\\main\\res\\layout\\message_fragment_layout.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "D:\\Users\\xueshijie\\.android\\build-cache\\54dfa62ef6a2c2ab4d672fffcfa35a01a46c9fb7\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\jz_dialog_volume.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\25d7eff924c4ee13091f692a06a599fb8f5dbf1d\\output\\res\\layout\\jz_dialog_volume.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_web_view.xml",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\layout\\activity_web_view.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_verification.xml",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\layout\\activity_verification.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\b60314fb4249a12613d5c7addc4ded6e340a5996\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_pickerview_topbar.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\eecc220f82ae20403124be70cfd42d3adabedc0e\\output\\res\\layout\\include_pickerview_topbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\course_details_activity_layout.xml",
+        "source": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\src\\main\\res\\layout\\course_details_activity_layout.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_all_data.xml",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\layout\\fragment_all_data.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\all_recyclerview.xml",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\layout\\all_recyclerview.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\my_collection_item.xml",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\layout\\my_collection_item.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notice_fragment_layout.xml",
+        "source": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\src\\main\\res\\layout\\notice_fragment_layout.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "D:\\Users\\xueshijie\\.android\\build-cache\\16f05002a6623820587fc52fb22dbbfb9d97fde5\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\my_curriculum_item.xml",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\layout\\my_curriculum_item.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "D:\\Users\\xueshijie\\.android\\build-cache\\54dfa62ef6a2c2ab4d672fffcfa35a01a46c9fb7\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "D:\\Users\\xueshijie\\.android\\build-cache\\54dfa62ef6a2c2ab4d672fffcfa35a01a46c9fb7\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\my_evaluation_activity_layout.xml",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\layout\\my_evaluation_activity_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\receiving_address_activity_layout.xml",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\layout\\receiving_address_activity_layout.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\downloaded_fragment_layout.xml",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\layout\\downloaded_fragment_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\test_record_activity_layout.xml",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\layout\\test_record_activity_layout.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\receiving_address_activity_layout.xml",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\layout\\receiving_address_activity_layout.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\my_collection_item.xml",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\layout\\my_collection_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message_fragment_layout.xml",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\layout\\message_fragment_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_recyclervew.xml",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\layout\\item_recyclervew.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\my_order_item.xml",
+        "source": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\src\\main\\res\\layout\\my_order_item.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\test_main_list_item.xml",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\layout\\test_main_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\major_fragment_layout.xml",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\layout\\major_fragment_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_articlelist.xml",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\layout\\item_articlelist.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_currdetails.xml",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\layout\\item_currdetails.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\page_no_data.xml",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\layout\\page_no_data.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_major_detail.xml",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\layout\\activity_major_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_starttest.xml",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\layout\\activity_starttest.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\jz_dialog_progress.xml",
+        "source": "D:\\Users\\xueshijie\\.android\\build-cache\\ef2f6369edfcc296e0e9aeba55a04f0e51a3c593\\output\\res\\layout\\jz_dialog_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\b60314fb4249a12613d5c7addc4ded6e340a5996\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "D:\\Users\\xueshijie\\.android\\build-cache\\54dfa62ef6a2c2ab4d672fffcfa35a01a46c9fb7\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\banner.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\71322508e9d2b59f196271eccb4ba71443eafe2d\\output\\res\\layout\\banner.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pickerview_options.xml",
+        "source": "D:\\Users\\xueshijie\\.android\\build-cache\\1b84af325bfefa2b436933626f39d7de3fb23407\\output\\res\\layout\\pickerview_options.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "D:\\Users\\xueshijie\\.android\\build-cache\\54dfa62ef6a2c2ab4d672fffcfa35a01a46c9fb7\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_fragment_layout.xml",
+        "source": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\src\\main\\res\\layout\\home_fragment_layout.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\jz_layout_clarity.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\25d7eff924c4ee13091f692a06a599fb8f5dbf1d\\output\\res\\layout\\jz_layout_clarity.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\jz_dialog_progress.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\25d7eff924c4ee13091f692a06a599fb8f5dbf1d\\output\\res\\layout\\jz_dialog_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\jz_layout_standard.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\25d7eff924c4ee13091f692a06a599fb8f5dbf1d\\output\\res\\layout\\jz_layout_standard.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_data_details.xml",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\layout\\item_data_details.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\test_activity_layout.xml",
+        "source": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\src\\main\\res\\layout\\test_activity_layout.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pickerview_options.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\eecc220f82ae20403124be70cfd42d3adabedc0e\\output\\res\\layout\\pickerview_options.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "D:\\Users\\xueshijie\\.android\\build-cache\\54dfa62ef6a2c2ab4d672fffcfa35a01a46c9fb7\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "D:\\Users\\xueshijie\\.android\\build-cache\\16f05002a6623820587fc52fb22dbbfb9d97fde5\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\add_address_activity_layout.xml",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\layout\\add_address_activity_layout.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\learning_fragment_layout.xml",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\layout\\learning_fragment_layout.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login_for_enterprise_activty_layout.xml",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\layout\\login_for_enterprise_activty_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\b60314fb4249a12613d5c7addc4ded6e340a5996\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\my_curriculum_item.xml",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\layout\\my_curriculum_item.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_datasercicedetails.xml",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\layout\\activity_datasercicedetails.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "D:\\Users\\xueshijie\\.android\\build-cache\\54dfa62ef6a2c2ab4d672fffcfa35a01a46c9fb7\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_verification.xml",
+        "source": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\src\\main\\res\\layout\\activity_verification.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "D:\\Users\\xueshijie\\.android\\build-cache\\16f05002a6623820587fc52fb22dbbfb9d97fde5\\output\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "D:\\Users\\xueshijie\\.android\\build-cache\\54dfa62ef6a2c2ab4d672fffcfa35a01a46c9fb7\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mine_fragment_layout.xml",
+        "source": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\src\\main\\res\\layout\\mine_fragment_layout.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\jz_layout_clarity_item.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\25d7eff924c4ee13091f692a06a599fb8f5dbf1d\\output\\res\\layout\\jz_layout_clarity_item.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login_for_vcode_activty_layout.xml",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\layout\\login_for_vcode_activty_layout.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_all_data.xml",
+        "source": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\src\\main\\res\\layout\\fragment_all_data.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\b60314fb4249a12613d5c7addc4ded6e340a5996\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "D:\\Users\\xueshijie\\.android\\build-cache\\16f05002a6623820587fc52fb22dbbfb9d97fde5\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\b60314fb4249a12613d5c7addc4ded6e340a5996\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_currdetails.xml",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\layout\\item_currdetails.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_data_details.xml",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\layout\\item_data_details.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\major_fragment_item_layout.xml",
+        "source": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\src\\main\\res\\layout\\major_fragment_item_layout.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\b60314fb4249a12613d5c7addc4ded6e340a5996\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\class_center_activity.xml",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\layout\\class_center_activity.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\public_fragment_layout.xml",
+        "source": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\src\\main\\res\\layout\\public_fragment_layout.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_article.xml",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\layout\\item_article.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login_for_personal_activty_layout.xml",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\layout\\login_for_personal_activty_layout.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\b60314fb4249a12613d5c7addc4ded6e340a5996\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\kprogresshud_hud.xml",
+        "source": "D:\\Users\\xueshijie\\.android\\build-cache\\ef5efdff5576d21a76060466f0a1351aa3ec7246\\output\\res\\layout\\kprogresshud_hud.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_title_bar.xml",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\layout\\activity_title_bar.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\b60314fb4249a12613d5c7addc4ded6e340a5996\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\catalog_fragment_list_item.xml",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\layout\\catalog_fragment_list_item.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "D:\\Users\\xueshijie\\.android\\build-cache\\54dfa62ef6a2c2ab4d672fffcfa35a01a46c9fb7\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "D:\\Users\\xueshijie\\.android\\build-cache\\54dfa62ef6a2c2ab4d672fffcfa35a01a46c9fb7\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\receiving_address_item.xml",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\layout\\receiving_address_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\b60314fb4249a12613d5c7addc4ded6e340a5996\\output\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_uploadimage.xml",
+        "source": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\src\\main\\res\\layout\\activity_uploadimage.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\b60314fb4249a12613d5c7addc4ded6e340a5996\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "D:\\Users\\xueshijie\\.android\\build-cache\\54dfa62ef6a2c2ab4d672fffcfa35a01a46c9fb7\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login_for_enterprise_activty_layout.xml",
+        "source": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\src\\main\\res\\layout\\login_for_enterprise_activty_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\b60314fb4249a12613d5c7addc4ded6e340a5996\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message_fragment_layout.xml",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\layout\\message_fragment_layout.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tag_item_search.xml",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\layout\\tag_item_search.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\public_fragment_layout.xml",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\layout\\public_fragment_layout.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "D:\\Users\\xueshijie\\.android\\build-cache\\54dfa62ef6a2c2ab4d672fffcfa35a01a46c9fb7\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\jz_dialog_progress.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\25d7eff924c4ee13091f692a06a599fb8f5dbf1d\\output\\res\\layout\\jz_dialog_progress.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\my_curriculum_item.xml",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\layout\\my_curriculum_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\def_load_more_failed.xml",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\layout\\def_load_more_failed.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\my_order_activity_layout.xml",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\layout\\my_order_activity_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\catalog_fragment_layout.xml",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\layout\\catalog_fragment_layout.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\jz_layout_clarity_item.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\25d7eff924c4ee13091f692a06a599fb8f5dbf1d\\output\\res\\layout\\jz_layout_clarity_item.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\jz_dialog_brightness.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\25d7eff924c4ee13091f692a06a599fb8f5dbf1d\\output\\res\\layout\\jz_dialog_brightness.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pager_error.xml",
+        "source": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\src\\main\\res\\layout\\pager_error.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\b60314fb4249a12613d5c7addc4ded6e340a5996\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pager_error.xml",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\layout\\pager_error.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "D:\\Users\\xueshijie\\.android\\build-cache\\54dfa62ef6a2c2ab4d672fffcfa35a01a46c9fb7\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\balance_activity_item.xml",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\layout\\balance_activity_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_fragment_layout.xml",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\layout\\home_fragment_layout.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "D:\\Users\\xueshijie\\.android\\build-cache\\54dfa62ef6a2c2ab4d672fffcfa35a01a46c9fb7\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_verification.xml",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\layout\\activity_verification.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\jz_layout_clarity.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\25d7eff924c4ee13091f692a06a599fb8f5dbf1d\\output\\res\\layout\\jz_layout_clarity.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\personal_data_activity_layout.xml",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\layout\\personal_data_activity_layout.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mine_fragment_head_view.xml",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\layout\\mine_fragment_head_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\my_order_activity_layout.xml",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\layout\\my_order_activity_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\my_evaluation_item.xml",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\layout\\my_evaluation_item.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\b60314fb4249a12613d5c7addc4ded6e340a5996\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login_for_personal_activty_layout.xml",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\layout\\login_for_personal_activty_layout.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_shop_type.xml",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\layout\\item_shop_type.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\test_record_activity_layout.xml",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\layout\\test_record_activity_layout.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pickerview_options.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\eecc220f82ae20403124be70cfd42d3adabedc0e\\output\\res\\layout\\pickerview_options.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pickerview_time.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\eecc220f82ae20403124be70cfd42d3adabedc0e\\output\\res\\layout\\pickerview_time.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pickerview_time.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\eecc220f82ae20403124be70cfd42d3adabedc0e\\output\\res\\layout\\pickerview_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\achievement_activity_layout.xml",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\layout\\achievement_activity_layout.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\b60314fb4249a12613d5c7addc4ded6e340a5996\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\test_main_list_item.xml",
+        "source": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\src\\main\\res\\layout\\test_main_list_item.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\receiving_address_activity_layout.xml",
+        "source": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\src\\main\\res\\layout\\receiving_address_activity_layout.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login_for_personal_activty_layout.xml",
+        "source": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\src\\main\\res\\layout\\login_for_personal_activty_layout.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "D:\\Users\\xueshijie\\.android\\build-cache\\54dfa62ef6a2c2ab4d672fffcfa35a01a46c9fb7\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\all_recyclerview.xml",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\layout\\all_recyclerview.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\my_evaluation_activity_layout.xml",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\layout\\my_evaluation_activity_layout.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\b60314fb4249a12613d5c7addc4ded6e340a5996\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "D:\\Users\\xueshijie\\.android\\build-cache\\54dfa62ef6a2c2ab4d672fffcfa35a01a46c9fb7\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\my_order_activity_layout.xml",
+        "source": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\src\\main\\res\\layout\\my_order_activity_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\b60314fb4249a12613d5c7addc4ded6e340a5996\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_datasercicedetails.xml",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\layout\\activity_datasercicedetails.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\def_loading.xml",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\layout\\def_loading.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\jz_dialog_volume.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\25d7eff924c4ee13091f692a06a599fb8f5dbf1d\\output\\res\\layout\\jz_dialog_volume.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\test_main_list_item.xml",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\layout\\test_main_list_item.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_recyclervew.xml",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\layout\\item_recyclervew.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\catalog_fragment_list_item.xml",
+        "source": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\src\\main\\res\\layout\\catalog_fragment_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\jz_layout_clarity.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\25d7eff924c4ee13091f692a06a599fb8f5dbf1d\\output\\res\\layout\\jz_layout_clarity.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\title_layout_activity.xml",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\layout\\title_layout_activity.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\jz_layout_clarity_item.xml",
+        "source": "D:\\Users\\xueshijie\\.android\\build-cache\\ef2f6369edfcc296e0e9aeba55a04f0e51a3c593\\output\\res\\layout\\jz_layout_clarity_item.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\jz_dialog_volume.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\25d7eff924c4ee13091f692a06a599fb8f5dbf1d\\output\\res\\layout\\jz_dialog_volume.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_datasercicedetails.xml",
+        "source": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\src\\main\\res\\layout\\activity_datasercicedetails.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\my_order_item.xml",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\layout\\my_order_item.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\register_activity_layout.xml",
+        "source": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\src\\main\\res\\layout\\register_activity_layout.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_all_data.xml",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\layout\\fragment_all_data.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login_for_vcode_activty_layout.xml",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\layout\\login_for_vcode_activty_layout.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\my_order_item.xml",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\layout\\my_order_item.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tag_item_search.xml",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\layout\\tag_item_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message_fragment_layout.xml",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\layout\\message_fragment_layout.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\downloaded_fragment_layout.xml",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\layout\\downloaded_fragment_layout.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_currdetails.xml",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\layout\\item_currdetails.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\banner.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\71322508e9d2b59f196271eccb4ba71443eafe2d\\output\\res\\layout\\banner.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\feedback_activity_layout.xml",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\layout\\feedback_activity_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\title_layout_activity.xml",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\layout\\title_layout_activity.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_footer.xml",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\layout\\main_footer.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message_center_activity.xml",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\layout\\message_center_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_web_view.xml",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\layout\\activity_web_view.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\all_recyclerview.xml",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\layout\\all_recyclerview.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\choice_identity_activity_layout.xml",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\layout\\choice_identity_activity_layout.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message_center_activity.xml",
+        "source": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\src\\main\\res\\layout\\message_center_activity.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\catalog_fragment_layout.xml",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\layout\\catalog_fragment_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\my_collection_activity_layout.xml",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\layout\\my_collection_activity_layout.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_pickerview_topbar.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\eecc220f82ae20403124be70cfd42d3adabedc0e\\output\\res\\layout\\include_pickerview_topbar.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\major_fragment_item_layout.xml",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\layout\\major_fragment_item_layout.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\choice_identity_activity_layout.xml",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\layout\\choice_identity_activity_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\add_address_activity_layout.xml",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\layout\\add_address_activity_layout.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "D:\\Users\\xueshijie\\.android\\build-cache\\54dfa62ef6a2c2ab4d672fffcfa35a01a46c9fb7\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "D:\\Users\\xueshijie\\.android\\build-cache\\16f05002a6623820587fc52fb22dbbfb9d97fde5\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\jz_layout_standard.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\25d7eff924c4ee13091f692a06a599fb8f5dbf1d\\output\\res\\layout\\jz_layout_standard.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\catalog_fragment_item.xml",
+        "source": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\src\\main\\res\\layout\\catalog_fragment_item.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_articlelist.xml",
+        "source": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\src\\main\\res\\layout\\item_articlelist.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notice_fragment_layout.xml",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\layout\\notice_fragment_layout.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\jz_layout_clarity.xml",
+        "source": "D:\\Users\\xueshijie\\.android\\build-cache\\ef2f6369edfcc296e0e9aeba55a04f0e51a3c593\\output\\res\\layout\\jz_layout_clarity.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\my_order_activity_layout.xml",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\layout\\my_order_activity_layout.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tag_item_search.xml",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\layout\\tag_item_search.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\def_load_more_failed.xml",
+        "source": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\src\\main\\res\\layout\\def_load_more_failed.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\balance_activity_layout.xml",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\layout\\balance_activity_layout.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "D:\\Users\\xueshijie\\.android\\build-cache\\16f05002a6623820587fc52fb22dbbfb9d97fde5\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\my_evaluation_item.xml",
+        "source": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\src\\main\\res\\layout\\my_evaluation_item.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\introduce_fragment_layout.xml",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\layout\\introduce_fragment_layout.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\forget_password_activity_layout.xml",
+        "source": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\src\\main\\res\\layout\\forget_password_activity_layout.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "D:\\Users\\xueshijie\\.android\\build-cache\\54dfa62ef6a2c2ab4d672fffcfa35a01a46c9fb7\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\forget_password_activity_layout.xml",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\layout\\forget_password_activity_layout.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\def_load_more_failed.xml",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\layout\\def_load_more_failed.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\introduce_fragment_layout.xml",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\layout\\introduce_fragment_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\feedback_activity_layout.xml",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\layout\\feedback_activity_layout.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\actvitiy_errorback.xml",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\layout\\actvitiy_errorback.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\change_password_activity_layout.xml",
+        "source": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\src\\main\\res\\layout\\change_password_activity_layout.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_shop_type.xml",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\layout\\item_shop_type.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_material_item.xml",
+        "source": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\src\\main\\res\\layout\\home_material_item.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\account_setting_activity_layout.xml",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\layout\\account_setting_activity_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mine_fragment_item.xml",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\layout\\mine_fragment_item.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\class_center_activity.xml",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\layout\\class_center_activity.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tag_item.xml",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\layout\\tag_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\b60314fb4249a12613d5c7addc4ded6e340a5996\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mine_fragment_item.xml",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\layout\\mine_fragment_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\b60314fb4249a12613d5c7addc4ded6e340a5996\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\major_fragment_layout.xml",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\layout\\major_fragment_layout.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\change_password_activity_layout.xml",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\layout\\change_password_activity_layout.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\my_evaluation_activity_layout.xml",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\layout\\my_evaluation_activity_layout.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_uploadimage.xml",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\layout\\activity_uploadimage.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mine_fragment_layout.xml",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\layout\\mine_fragment_layout.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_forget.xml",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\layout\\activity_forget.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_articlelist.xml",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\layout\\item_articlelist.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\discuss_fragment_layout.xml",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\layout\\discuss_fragment_layout.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\class_center_activity.xml",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\layout\\class_center_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\def_loading.xml",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\layout\\def_loading.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_recyclervew.xml",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\layout\\item_recyclervew.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\catalog_fragment_layout.xml",
+        "source": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\src\\main\\res\\layout\\catalog_fragment_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\b60314fb4249a12613d5c7addc4ded6e340a5996\\output\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\receiving_address_item.xml",
+        "source": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\src\\main\\res\\layout\\receiving_address_item.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "D:\\Users\\xueshijie\\.android\\build-cache\\54dfa62ef6a2c2ab4d672fffcfa35a01a46c9fb7\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "D:\\Users\\xueshijie\\.android\\build-cache\\16f05002a6623820587fc52fb22dbbfb9d97fde5\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_major_detail.xml",
+        "source": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\src\\main\\res\\layout\\activity_major_detail.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_article.xml",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\layout\\item_article.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pickerview_time.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\eecc220f82ae20403124be70cfd42d3adabedc0e\\output\\res\\layout\\pickerview_time.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\balance_activity_item.xml",
+        "source": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\src\\main\\res\\layout\\balance_activity_item.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\test_main_activity_layout.xml",
+        "source": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\src\\main\\res\\layout\\test_main_activity_layout.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\account_setting_activity_layout.xml",
+        "source": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\src\\main\\res\\layout\\account_setting_activity_layout.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notice_fragment_layout.xml",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\layout\\notice_fragment_layout.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pager_error.xml",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\layout\\pager_error.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message_item.xml",
+        "source": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\src\\main\\res\\layout\\message_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\catalog_fragment_list_item.xml",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\layout\\catalog_fragment_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\receiving_address_item.xml",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\layout\\receiving_address_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\b60314fb4249a12613d5c7addc4ded6e340a5996\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login_for_vcode_activty_layout.xml",
+        "source": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\src\\main\\res\\layout\\login_for_vcode_activty_layout.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "D:\\Users\\xueshijie\\.android\\build-cache\\54dfa62ef6a2c2ab4d672fffcfa35a01a46c9fb7\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\major_fragment_layout.xml",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\layout\\major_fragment_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\account_setting_activity_layout.xml",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\layout\\account_setting_activity_layout.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_curriculum_item.xml",
+        "source": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\src\\main\\res\\layout\\home_curriculum_item.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\course_details_activity_layout.xml",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\layout\\course_details_activity_layout.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_articlelist.xml",
+        "source": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\src\\main\\res\\layout\\activity_articlelist.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\register_activity_layout.xml",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\layout\\register_activity_layout.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "D:\\Users\\xueshijie\\.android\\build-cache\\16f05002a6623820587fc52fb22dbbfb9d97fde5\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\b60314fb4249a12613d5c7addc4ded6e340a5996\\output\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\b60314fb4249a12613d5c7addc4ded6e340a5996\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_data_details.xml",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\layout\\item_data_details.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_ziliao_home.xml",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\layout\\item_ziliao_home.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_material_item.xml",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\layout\\home_material_item.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "D:\\Users\\xueshijie\\.android\\build-cache\\54dfa62ef6a2c2ab4d672fffcfa35a01a46c9fb7\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_material_item.xml",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\layout\\home_material_item.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\choice_identity_activity_layout.xml",
+        "source": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\src\\main\\res\\layout\\choice_identity_activity_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\b60314fb4249a12613d5c7addc4ded6e340a5996\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "D:\\Users\\xueshijie\\.android\\build-cache\\54dfa62ef6a2c2ab4d672fffcfa35a01a46c9fb7\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tag_item.xml",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\layout\\tag_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_lessonhome.xml",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\layout\\item_lessonhome.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "D:\\Users\\xueshijie\\.android\\build-cache\\16f05002a6623820587fc52fb22dbbfb9d97fde5\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pickerview_time.xml",
+        "source": "D:\\Users\\xueshijie\\.android\\build-cache\\1b84af325bfefa2b436933626f39d7de3fb23407\\output\\res\\layout\\pickerview_time.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\feedback_activity_layout.xml",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\layout\\feedback_activity_layout.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_update_name.xml",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\layout\\activity_update_name.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "D:\\Users\\xueshijie\\.android\\build-cache\\54dfa62ef6a2c2ab4d672fffcfa35a01a46c9fb7\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mine_fragment_head_view.xml",
+        "source": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\src\\main\\res\\layout\\mine_fragment_head_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_basepickerview.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\eecc220f82ae20403124be70cfd42d3adabedc0e\\output\\res\\layout\\layout_basepickerview.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\introduce_fragment_layout.xml",
+        "source": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\src\\main\\res\\layout\\introduce_fragment_layout.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mine_fragment_item.xml",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\layout\\mine_fragment_item.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mine_fragment_layout.xml",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\layout\\mine_fragment_layout.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_forget.xml",
+        "source": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\src\\main\\res\\layout\\activity_forget.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\course_details_activity_layout.xml",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\layout\\course_details_activity_layout.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\test_activity_layout.xml",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\layout\\test_activity_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\receiving_address_activity_layout.xml",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\layout\\receiving_address_activity_layout.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tag_item_search.xml",
+        "source": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\src\\main\\res\\layout\\tag_item_search.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\introduce_fragment_layout.xml",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\layout\\introduce_fragment_layout.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pager_loading.xml",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\layout\\pager_loading.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "D:\\Users\\xueshijie\\.android\\build-cache\\54dfa62ef6a2c2ab4d672fffcfa35a01a46c9fb7\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\b60314fb4249a12613d5c7addc4ded6e340a5996\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_title_bar.xml",
+        "source": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\src\\main\\res\\layout\\activity_title_bar.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\personal_data_activity_layout.xml",
+        "source": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\src\\main\\res\\layout\\personal_data_activity_layout.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\discuss_fragment_layout.xml",
+        "source": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\src\\main\\res\\layout\\discuss_fragment_layout.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\test_main_list_item.xml",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\layout\\test_main_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\b60314fb4249a12613d5c7addc4ded6e340a5996\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\discuss_fragment_layout.xml",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\layout\\discuss_fragment_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\register_activity_layout.xml",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\layout\\register_activity_layout.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\actvitiy_errorback.xml",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\layout\\actvitiy_errorback.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tag_item.xml",
+        "source": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\src\\main\\res\\layout\\tag_item.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\discuss_fragment_layout.xml",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\layout\\discuss_fragment_layout.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\test_main_activity_layout.xml",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\layout\\test_main_activity_layout.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "D:\\Users\\xueshijie\\.android\\build-cache\\54dfa62ef6a2c2ab4d672fffcfa35a01a46c9fb7\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_fragment_layout.xml",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\layout\\home_fragment_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\achievement_activity_layout.xml",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\layout\\achievement_activity_layout.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\register_activity_layout.xml",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\layout\\register_activity_layout.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_forget.xml",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\layout\\activity_forget.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\jz_dialog_brightness.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\25d7eff924c4ee13091f692a06a599fb8f5dbf1d\\output\\res\\layout\\jz_dialog_brightness.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_forget.xml",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\layout\\activity_forget.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mine_fragment_head_view.xml",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\layout\\mine_fragment_head_view.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_material_item.xml",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\layout\\home_material_item.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "D:\\Users\\xueshijie\\.android\\build-cache\\54dfa62ef6a2c2ab4d672fffcfa35a01a46c9fb7\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\balance_activity_item.xml",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\layout\\balance_activity_item.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\add_address_activity_layout.xml",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\layout\\add_address_activity_layout.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_fragment_layout.xml",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\layout\\home_fragment_layout.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\feedback_activity_layout.xml",
+        "source": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\src\\main\\res\\layout\\feedback_activity_layout.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_basepickerview.xml",
+        "source": "D:\\Users\\xueshijie\\.android\\build-cache\\1b84af325bfefa2b436933626f39d7de3fb23407\\output\\res\\layout\\layout_basepickerview.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "D:\\Users\\xueshijie\\.android\\build-cache\\54dfa62ef6a2c2ab4d672fffcfa35a01a46c9fb7\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\personal_center_activity_layout.xml",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\layout\\personal_center_activity_layout.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\title_layout_activity.xml",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\layout\\title_layout_activity.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\balance_activity_layout.xml",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\layout\\balance_activity_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\19ec16f0fa11e3123f016a5ffd25f2f27629d5e8\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\b60314fb4249a12613d5c7addc4ded6e340a5996\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\achievement_activity_layout.xml",
+        "source": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\src\\main\\res\\layout\\achievement_activity_layout.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\jz_layout_clarity_item.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\25d7eff924c4ee13091f692a06a599fb8f5dbf1d\\output\\res\\layout\\jz_layout_clarity_item.xml"
+    },
+    {
+        "merged": "D:\\work\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message_item.xml",
+        "source": "D:\\work\\Runen\\Runen\\app\\src\\main\\res\\layout\\message_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message_item.xml",
+        "source": "C:\\Users\\SXQ\\Documents\\GitHub\\MainstreamFramework\\app\\src\\main\\res\\layout\\message_item.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "D:\\Users\\xueshijie\\.android\\build-cache\\54dfa62ef6a2c2ab4d672fffcfa35a01a46c9fb7\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\Users\\xueshijie\\AndroidStudioProjects\\MyApplication\\Runen\\Runen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "D:\\Users\\xueshijie\\.android\\build-cache\\54dfa62ef6a2c2ab4d672fffcfa35a01a46c9fb7\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\test_activity_layout.xml",
+        "source": "D:\\work\\MainstreamFramework\\app\\src\\main\\res\\layout\\test_activity_layout.xml"
+    },
+    {
+        "merged": "D:\\work\\MainstreamFramework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\SXQ\\.android\\build-cache\\b60314fb4249a12613d5c7addc4ded6e340a5996\\output\\res\\layout\\design_layout_tab_text.xml"
+    }
+]

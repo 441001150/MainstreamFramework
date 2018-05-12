@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="black_color">#2F2F36</color>
+
+    <color name="transparent">#00000000</color>
+    <color name="choose_eara_item_press_color">#f4f4f4</color>
+
+    <color name="gray_room">#8F8E94</color>
+
+    <color name="txt_light_item">#666666</color>
+
+    <color name="footer_text_color_selected">#2B2B2B</color>
+
+    <color name="text_black">#333333</color>
+    <color name="text_white">#FEFEFE</color>
+    <color name="title_green">#02BF65</color>
+    <color name="text_green">#03C066</color>
+    <color name="hint_gray">#CCCCCC</color>
+    <color name="text_orange">#EB5529</color>
+    <color name="view_line_gray">#F2F2F2</color>
+    
+    <color name="person">#132861</color>
+    
+    <!--登录-->
+    <color name="zise_normal">#FF3366</color>
+
+    <color name="bg_gray">#f2f2f2</color>
+
+    <color name="f6f6f6">#f6f6f6</color>
+
+    <color name="ededed">#ededed</color>
+
+    <color name="lable_blue">#3DB0FD</color>
+
+    <color name="text_gray">#c2c2c2</color>
+
+
+    <!--数据服务-->
+    <color name="color_link">#EAEAEA</color>
+    <!--数据服务详情字体颜色-->
+    <color name="color_detailsword">#2B2B2B</color>
+    
+    <!--大讲堂-->
+    <color name="clonr_titleword">#212121</color>
+    <color name="color_linkword">#EAEAEA</color>
+    <color name="color_textcolor">#666666</color>
+    
+    <!--我的评测-->
+    <color name="color_error_Black">#333333</color>
+    <!--个人头像-->
+    <color name="color_image_word">#333333</color>
+</resources>

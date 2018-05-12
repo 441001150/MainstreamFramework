@@ -1,0 +1,139 @@
+apply plugin: 'com.android.application'
+apply plugin: 'android-apt'
+
+android {
+
+    signingConfigs {
+        /*
+        *MD5: E5:78:BE:B2:D5:BB:D7:34:15:0E:89:73:4E:98:99:D4
+         SHA1: F2:BC:21:1A:BA:ED:8A:A7:88:4E:28:4F:EB:7B:C2:9D:A9:C5:D8:FB
+         SHA256: 06:B3:D9:46:B5:17:9D:C8:3E:36:89:8B:52:95:36:5D:6A:B2:04:1B:87:69:D7:A6:84:1C:F9:CE:CC:3C:3A:95
+         签名算法名称: SHA256withRSA
+         版本: 3
+
+        * */
+        release {
+            storeFile file('../runen.jks')
+            storePassword "123456"
+            keyAlias "runen"
+            keyPassword "123456"
+        }
+        debug {
+        }
+    }
+    /*引入的包出现的冲突解决*/
+    packagingOptions {
+        exclude 'META-INF/LICENSE'
+        exclude 'META-INF/NOTICE'
+        exclude 'META-INF/rxjava.properties'
+    }
+    /*dex分包出现的问题解决*/
+    dexOptions {
+        dexInProcess true
+        preDexLibraries true
+        javaMaxHeapSize "4g"
+    }
+    /*drawble 出现png图片解决*/
+    aaptOptions.cruncherEnabled = false
+    aaptOptions.useNewCruncher = false
+
+    buildTypes {
+        release {
+            signingConfig signingConfigs.release
+            minifyEnabled false
+        }
+    }
+
+    compileSdkVersion 26
+    buildToolsVersion "27.0.3"
+    defaultConfig {
+        applicationId "com.runen.wnhz.runen"
+        minSdkVersion 19
+        targetSdkVersion 26
+        versionCode 1
+        versionName "1.0"
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+        /*分包 配置*/
+        multiDexEnabled true
+    }
+
+}
+
+buildscript {
+    repositories {
+        jcenter()
+        mavenCentral()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:2.3.3'
+        classpath 'com.neenbedankt.gradle.plugins:android-apt:1.4'//Added
+        classpath 'org.aspectj:aspectjtools:1.8.9'
+        classpath 'org.aspectj:aspectjweaver:1.8.9'
+    }
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
+        exclude group: 'com.android.support', module: 'support-annotations'
+    })
+    compile 'com.android.support:appcompat-v7:26.+'
+    compile 'com.android.support.constraint:constraint-layout:1.0.2'
+    testCompile 'junit:junit:4.12'
+    //    //support v4
+    compile 'com.android.support:support-v4:25.0.0'
+    //dagger注入
+    compile 'com.google.dagger:dagger:2.9'
+    apt 'com.google.dagger:dagger-compiler:2.9'
+    provided 'org.glassfish:javax.annotation:10.0-b28'
+    //design
+    compile 'com.android.support:design:26.0.0-alpha1'
+    //okhttp
+    compile 'com.squareup.okhttp3:okhttp:3.3.1'
+    compile 'com.squareup.okhttp3:logging-interceptor:3.3.1'
+    //logger
+    compile 'com.orhanobut:logger:1.15'
+    //retrofit
+    compile 'com.squareup.retrofit2:retrofit:2.1.0'
+    compile 'com.squareup.retrofit2:converter-gson:2.0.0-beta3'
+    compile 'com.squareup.retrofit2:adapter-rxjava:2.0.0'
+    compile 'com.squareup.retrofit2:converter-scalars:2.0.0'
+    //rxjava
+    compile 'io.reactivex:rxjava:1.2.6'
+    compile 'io.reactivex:rxandroid:1.2.1'
+    //----------------------EventBus--------------
+    compile 'org.simple:androideventbus:1.0.5.1'
+    //GSON
+    compile 'com.google.code.gson:gson:2.4'
+    //glide
+    compile 'com.github.bumptech.glide:glide:3.7.0'
+    compile 'jp.wasabeef:glide-transformations:2.0.1'
+    //multidex
+    compile 'com.android.support:multidex:1.0.1'
+    //loading对话框
+    compile 'com.kaopiz:kprogresshud:1.0.2'
+    /*进度条*/
+    compile 'com.lusfold.spinnerloading:library:1.0.0'
+    compile 'com.pnikosis:materialish-progress:1.7'
+    //butterknife
+    compile 'com.jakewharton:butterknife:8.4.0'
+    apt 'com.jakewharton:butterknife-compiler:8.4.0'
+    compile 'cn.jzvd:jiaozivideoplayer:6.2.9'
+    //下拉刷新
+    compile 'com.scwang.smartrefresh:SmartRefreshLayout:1.1.0-alpha-3'
+    compile 'com.scwang.smartrefresh:SmartRefreshHeader:1.1.0-alpha-3'
+    //banner
+    compile 'com.youth.banner:banner:1.4.9'
+    //recycler分割线
+    compile 'com.yqritc:recyclerview-flexibledivider:1.4.0'
+    //MPAndroidChart图表
+    compile 'com.github.PhilJay:MPAndroidChart:v3.0.1'
+    //三级联动选择器
+    compile 'com.contrarywind:Android-PickerView:3.2.5'
+    //动态申请权限
+    compile 'com.tbruyelle.rxpermissions:rxpermissions:0.9.4@aar'
+    //沉浸式状态栏
+    compile 'com.github.niorgai:StatusBarCompat:1.0.0'
+    // 微信依赖
+    compile 'com.tencent.mm.opensdk:wechat-sdk-android-without-mta:+'
+}
